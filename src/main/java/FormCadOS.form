@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="btAbrir" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="btLimpar" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="btVoltar" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="cxCpfCliente" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="cxCpfProfissional" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="cxDataEntrada" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="cxDescServico" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="cxNumOS" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="cxObservacao" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="cxPlacaVeiculo" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="cxPrevisao" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="jScrollPane1" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="rotCpfCliente" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="rotCpfProfissional" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="rotDataEntrada" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="rotDescServico" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="rotNumOS" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="rotObservacao" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="rotPlacaVeiculo" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="rotPrevisao" min="-2" pref="400" max="32767" attributes="0"/>
+          <Component id="rotTitulo" min="-2" pref="400" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="btAbrir" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="btLimpar" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="btVoltar" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cxCpfCliente" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cxCpfProfissional" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cxDataEntrada" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cxDescServico" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cxNumOS" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cxObservacao" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cxPlacaVeiculo" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cxPrevisao" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="rotCpfCliente" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="rotCpfProfissional" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="rotDataEntrada" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="rotDescServico" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="rotNumOS" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="rotObservacao" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="rotPlacaVeiculo" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="rotPrevisao" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="rotTitulo" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="btAbrir">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Abrir OS"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btLimpar">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Limpar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btVoltar">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="13" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Voltar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxCpfCliente">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxCpfProfissional">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxDataEntrada">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxDescServico">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxNumOS">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxObservacao">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxPlacaVeiculo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="cxPrevisao">
+      <Properties>
+        <Property name="text" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="tabOS">
+          <Properties>
+        <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+          <Table columnCount="4" rowCount="4">
+            <Column editable="true" title="Title 1" type="java.lang.Object"/>
+            <Column editable="true" title="Title 2" type="java.lang.Object"/>
+            <Column editable="true" title="Title 3" type="java.lang.Object"/>
+            <Column editable="true" title="Title 4" type="java.lang.Object"/>
+          </Table>
+        </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="rotCpfCliente">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CPF Cliente.........:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rotCpfProfissional">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CPF Profissional....:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rotDataEntrada">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Data Entrada........:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rotDescServico">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Descricao Servico...:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rotNumOS">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Numero OS...........:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rotObservacao">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Observacao..........:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rotPlacaVeiculo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Placa Veiculo.......:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rotPrevisao">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Previsao............:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="rotTitulo">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="22" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="ABRIR ORDEM DE SERVICO"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

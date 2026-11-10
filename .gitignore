@@ -1,0 +1,24 @@
+# Maven - arquivos gerados na compilação
+target/
+
+# NetBeans - configurações locais
+nbproject/private/
+build/
+dist/
+
+# Java - arquivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
